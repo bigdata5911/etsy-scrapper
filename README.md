@@ -21,7 +21,7 @@ A Python-based web scraper built with Selenium that extracts listing and shop in
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/danieladdisonorg/Etsy-Scraping.git
+git clone https://github.com/bigdata5911/Etsy-Scraping.git
 cd Etsy-Scraping
 ```
 
